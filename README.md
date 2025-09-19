@@ -1,6 +1,6 @@
 ## Olá👋
 
-Sou um profissional de QA e tenho interesse na área de automação de testes
+QA Engineer com mais de 4 anos de experiência. Foco em automação, testes manuais, qualidade de software e entrega contínua.
 
 ![Cypress](https://img.shields.io/badge/Cypress-69D782?style=flat&logo=cypress&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)

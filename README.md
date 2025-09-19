@@ -2,7 +2,6 @@
 
 Sou um profissional de QA e tenho interesse na área de automação de testes
 
-## Stacks
 ![Cypress](https://img.shields.io/badge/Cypress-69D782?style=flat&logo=cypress&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)

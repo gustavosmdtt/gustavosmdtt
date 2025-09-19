@@ -1,4 +1,4 @@
-## Olá, me chamo Gustavo Schmidt 👋
+## Olá👋
 
 Sou um profissional de QA e tenho interesse na área de automação de testes
 

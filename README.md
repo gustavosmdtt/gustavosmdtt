@@ -1,4 +1,4 @@
-## Olá👋
+### Olá, 🙂
 
 QA Engineer com mais de 4 anos de experiência. Foco em automação, testes manuais, qualidade de software e entrega contínua.
 

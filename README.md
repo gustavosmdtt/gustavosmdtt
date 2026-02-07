@@ -1,6 +1,6 @@
 ### Olá, 🙂
 
-QA Engineer com mais de 4 anos de experiência. Foco em automação, <br>
+QA Engineer com 5 anos de experiência. Foco em automação, <br>
 testes manuais, qualidade de software e entrega contínua.
 
 ![Cypress](https://img.shields.io/badge/Cypress-69D782?style=flat&logo=cypress&logoColor=white)
